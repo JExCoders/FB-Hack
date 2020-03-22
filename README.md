@@ -11,7 +11,8 @@ $ pkg install curl -y
 $ pkg install bash -y
 $ pkg install jq -y
 $ pkg install git -y
+$ pip2 install requests mechanize
 $ git clone https://github.com/JExCoders/FB-Hack
 $ cd Fb-Hack
-$ bash fbhack.sh
+$ python2 DarkFB.py
  
